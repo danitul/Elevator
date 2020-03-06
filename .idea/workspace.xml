@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27351d10-face-48c0-833c-ee06bed6586c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Elevator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/libraries/sbt__junit_junit_4_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/modules/Elevator-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/modules/Elevator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/project/target/config-classes/$2f50863677dafd130e6e$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/project/target/config-classes/$2f50863677dafd130e6e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/project/target/config-classes/$2f50863677dafd130e6e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$089f178175b2c78aba96$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$089f178175b2c78aba96.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$089f178175b2c78aba96.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$0fddd1fc5cdd06e5c162$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$0fddd1fc5cdd06e5c162.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$0fddd1fc5cdd06e5c162.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$544575e7a224989e1a9f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$544575e7a224989e1a9f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$544575e7a224989e1a9f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$7c90f5b6c2f7567f8c60$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$7c90f5b6c2f7567f8c60.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$7c90f5b6c2f7567f8c60.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$b4b7ce616331505e40e9$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$b4b7ce616331505e40e9.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$b4b7ce616331505e40e9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$c28da7f41201e68f5849$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$c28da7f41201e68f5849.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/config-classes/$c28da7f41201e68f5849.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/_global/_global/managedSourcePaths/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/src/main/scala/Elevator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/src/main/scala/ElevatorControlSystem.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/src/test/scala/ElevatorSuites.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Elevator" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yi1ZnR3UUA1L88nODn6mUQdEp3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrei\IdeaProjects\Elevator\Elevator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ElevatorSuites">
+    <configuration name="ElevatorSuites" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Elevator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElevatorSuites" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorSuites.Elevator$u0020changes$u0020direction$u0020if$u0020there$u0027s$u0020no$u0020more$u0020action$u0020to$u0020be$u0020done$u0020in$u0020the$u0020current$u0020direction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Elevator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElevatorSuites" />
+      <option name="METHOD_NAME" value="Elevator$u0020changes$u0020direction$u0020if$u0020there$u0027s$u0020no$u0020more$u0020action$u0020to$u0020be$u0020done$u0020in$u0020the$u0020current$u0020direction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorSuites.Elevator$u0020drops$u0020off$u0020passenger$u0020at$u0020goal$u0020floor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Elevator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElevatorSuites" />
+      <option name="METHOD_NAME" value="Elevator$u0020drops$u0020off$u0020passenger$u0020at$u0020goal$u0020floor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorSuites.Elevator$u0020picking$u0020up$u0020new$u0020passenger$u0020if$u0020they$u0020are$u0020on$u0020the$u0020current$u0020direction$u0020even$u0020if$u0020no$u0020one$u0020else$u0020needs$u0020to$u0020be$u0020dropped$u0020off" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Elevator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElevatorSuites" />
+      <option name="METHOD_NAME" value="Elevator$u0020picking$u0020up$u0020new$u0020passenger$u0020if$u0020they$u0020are$u0020on$u0020the$u0020current$u0020direction$u0020even$u0020if$u0020no$u0020one$u0020else$u0020needs$u0020to$u0020be$u0020dropped$u0020off" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorSuites.Elevator$u0020prioritizes$u0020dropping$u0020off$u0020passengers$u0020first$u0020before$u0020picking$u0020up$u0020new$u0020ones" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Elevator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElevatorSuites" />
+      <option name="METHOD_NAME" value="Elevator$u0020prioritizes$u0020dropping$u0020off$u0020passengers$u0020first$u0020before$u0020picking$u0020up$u0020new$u0020ones" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElevatorSuites" />
+        <item itemvalue="JUnit.ElevatorSuites.Elevator$u0020changes$u0020direction$u0020if$u0020there$u0027s$u0020no$u0020more$u0020action$u0020to$u0020be$u0020done$u0020in$u0020the$u0020current$u0020direction" />
+        <item itemvalue="JUnit.ElevatorSuites.Elevator$u0020picking$u0020up$u0020new$u0020passenger$u0020if$u0020they$u0020are$u0020on$u0020the$u0020current$u0020direction$u0020even$u0020if$u0020no$u0020one$u0020else$u0020needs$u0020to$u0020be$u0020dropped$u0020off" />
+        <item itemvalue="JUnit.ElevatorSuites.Elevator$u0020prioritizes$u0020dropping$u0020off$u0020passengers$u0020first$u0020before$u0020picking$u0020up$u0020new$u0020ones" />
+        <item itemvalue="JUnit.ElevatorSuites.Elevator$u0020drops$u0020off$u0020passenger$u0020at$u0020goal$u0020floor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Elevator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="elevator [file:/C:/Users/Andrei/IdeaProjects/Elevator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Elevator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3641283685" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../HelloWorld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../progfun1-example/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27351d10-face-48c0-833c-ee06bed6586c" name="Default Changelist" comment="" />
+      <created>1583410658831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583410658831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="101" key="#Project_Structure" timestamp="1583414364134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="101" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583414364134" />
+    <state x="590" y="197" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583424513350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="197" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583424513350" />
+    <state x="259" y="150" width="1200" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583511703420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="259" y="150" width="1200" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1583511703420" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583515750531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583515750531" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583515750531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583515750531" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583515750531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583515750531" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583515750531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583515750531" />
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1583512741136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583512741136" />
+    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1583512741135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583512741135" />
+    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1583512741135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583512741135" />
+    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1583512741135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583512741135" />
+    <state x="0" y="0" width="738" height="824" key="find.popup" timestamp="1583516774711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="738" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1583516774711" />
+    <state x="522" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1583506622541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583506622541" />
+  </component>
+</project>
